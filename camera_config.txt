@@ -1,0 +1,6 @@
+=== Camera Configuration ===
+position_x: 5
+position_y: 3
+position_z: -12
+field_of_view: 45
+render_distance: 1000
